@@ -155,7 +155,7 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
 
 #des3 {
     text-decoration: dotted;
-    color: #ffe000;
+    color: #fff;
     margin-left: 2px!important;
     display: inline-block;
     margin-right: 4.4px!important
@@ -239,7 +239,7 @@ div#tlogins .fl.mini.u-msg {
 }
 
 ul.nav.nav-tabs>li>a {
-    color: #ffe000;
+    color: #fff;
     border: none;
     text-align: center;
     background-image: linear-gradient(90deg,#c44570ad 0,#be3f6a 10%,#8a0b36 51%,#be3f6a 89%,#c44570ad 100%);
