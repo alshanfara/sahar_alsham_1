@@ -105,11 +105,11 @@ div#l1 {
 }
 
 div#l1,div#l2,div#l3 {
-    border-bottom: 2px solid;
-    margin-bottom: 2px;
-    border-top: 2px solid;
+    border-bottom:4px inset  ;
+    margin-bottom: 5px;
+    border-top: 3px outset;
     margin-top: 0;
-    border-color: #bababa;
+    border-color: #a62752;
     border-radius: 15px;
     height: 69px
 }
