@@ -317,7 +317,7 @@ div#tlogins .hand.nosel.fl.uzr.border {
 
 
 .light {
-   border: 1px solid         #3fbeb8;
+   border: 2px solid         #3fbeb8;
    -webkit-animation: mymove 2s infinite;
    animation: mymove 1s infinite;
 }
@@ -339,7 +339,7 @@ div#tlogins .hand.nosel.fl.uzr.border {
 }
 
 img.fitimg.fl.u-pic {
-   border: 2px solid #dbff00;
+   border: 3px solid #dbff00;
    -webkit-animation: mymove 5s infinite;
    animation: mymove 1s infinite;
 }
