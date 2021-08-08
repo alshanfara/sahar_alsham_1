@@ -338,7 +338,7 @@ div#tlogins .hand.nosel.fl.uzr.border {
 @keyframes mymove {
   50% {border-color: #16a8d8;}
 }
-}
+
 img.fitimg.fl.u-pic {
    border: 2px solid #dbff00;
    -webkit-animation: mymove 5s infinite;
