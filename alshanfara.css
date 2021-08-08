@@ -312,73 +312,13 @@ div#tlogins .hand.nosel.fl.uzr.border {
 
 #des0 {
 	background-image: linear-gradient(90deg,#c44570ad 0,#be3f6a 10%,#8a0b36 51%,#be3f6a 89%,#c44570ad 100%);
-
-}
-
-
-.light {
-   border: 1px solid         #3fbeb8;
-   -webkit-animation: mymove 2s infinite;
-   animation: mymove 1s infinite;
-}
-
-
-@-webkit-keyframes mymove {
-  50% {border-color: #14a3d2;}
-  from {
-                    transform: rotate(0deg) scale(1);
-                }
-
-                to {
-                    transform: rotate(360deg) scale(1);
-                }
-}
-
-@keyframes mymove {
-  50% {border-color: #16a8d8;}
 }
 
 img.fitimg.fl.u-pic {
    border: 3px solid #dbff00;
    -webkit-animation: mymove 5s infinite;
    animation: mymove 1s infinite;
-}
 
-
-@-webkit-keyframes mymove {
-  50% {border-color: #00aee6;}
-  from {
-                    transform: rotate(0deg) scale(1);
-                }
-
-                to {
-                    transform: rotate(360deg) scale(1);
-                }
-}
-
-@keyframes mymove {
-  50% {border-color: #ff049f;}
-}
-.label-primary, .btn-primary {
-   border: 1px solid #42bbb8;
-   -webkit-animation: mymove 5s infinite;
-   animation: mymove 1s infinite;
-}
-
-
-@-webkit-keyframes mymove {
-  50% {border-color: #00aee6;}
-  from {
-                    transform: rotate(0deg) scale(1);
-                }
-
-                to {
-                    transform: rotate(360deg) scale(1);
-                }
-}
-
-@keyframes mymove {
-  50% {border-color: #ff049f;}
 }
 .broadcasters {
 position: absolute;
