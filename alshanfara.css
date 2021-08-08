@@ -380,3 +380,10 @@ img.fitimg.fl.u-pic {
 @keyframes mymove {
   50% {border-color: #ff049f;}
 }
+.broadcasters {
+position: absolute;
+	background-image: url(https://i.imgur.com/eqGvZEC.gif)!important;
+	width: 100%;
+	background: #000;
+	left: 0;
+	}
