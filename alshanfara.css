@@ -359,3 +359,25 @@ img.fitimg.fl.u-pic {
 @keyframes mymove {
   50% {border-color: #ff049f;}
 }
+}
+.label-primary, .btn-primary {
+   border: 1px solid #42bbb8;
+   -webkit-animation: mymove 5s infinite;
+   animation: mymove 1s infinite;
+}
+
+
+@-webkit-keyframes mymove {
+  50% {border-color: #00aee6;}
+  from {
+                    transform: rotate(0deg) scale(1);
+                }
+
+                to {
+                    transform: rotate(360deg) scale(1);
+                }
+}
+
+@keyframes mymove {
+  50% {border-color: #ff049f;}
+}
