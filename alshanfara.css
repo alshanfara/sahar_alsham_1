@@ -321,3 +321,14 @@ position: absolute;
 	background: #000;
 	left: 0;
 }
+.broadcasters>div>.prod {
+    float: right;
+    width: 50px;
+    height: 52px;
+    border: 2px solid gainsboro;
+    margin: 0 1px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: white;
+    background-image: url(https://fony5.com/images/mic_item_bg.gif);
+}
