@@ -315,10 +315,9 @@ div#tlogins .hand.nosel.fl.uzr.border {
 
 }
 
-}
 
 .light {
-   border: 2px outset         #f200ff;
+   border: 1px solid         #3fbeb8;
    -webkit-animation: mymove 2s infinite;
    animation: mymove 1s infinite;
 }
