@@ -312,12 +312,6 @@ div#tlogins .hand.nosel.fl.uzr.border {
 
 #des0 {
 	background-image: linear-gradient(90deg,#c44570ad 0,#be3f6a 10%,#8a0b36 51%,#be3f6a 89%,#c44570ad 100%);
-}
-
-img.fitimg.fl.u-pic {
-   border: 3px solid #dbff00;
-   -webkit-animation: mymove 5s infinite;
-   animation: mymove 1s infinite;
 
 }
 .broadcasters {
