@@ -338,3 +338,25 @@ div#tlogins .hand.nosel.fl.uzr.border {
 @keyframes mymove {
   50% {border-color: #16a8d8;}
 }
+}
+img.fitimg.fl.u-pic {
+   border: 2px solid #dbff00;
+   -webkit-animation: mymove 5s infinite;
+   animation: mymove 1s infinite;
+}
+
+
+@-webkit-keyframes mymove {
+  50% {border-color: #00aee6;}
+  from {
+                    transform: rotate(0deg) scale(1);
+                }
+
+                to {
+                    transform: rotate(360deg) scale(1);
+                }
+}
+
+@keyframes mymove {
+  50% {border-color: #ff049f;}
+}
