@@ -359,7 +359,6 @@ img.fitimg.fl.u-pic {
 @keyframes mymove {
   50% {border-color: #ff049f;}
 }
-}
 .label-primary, .btn-primary {
    border: 1px solid #42bbb8;
    -webkit-animation: mymove 5s infinite;
