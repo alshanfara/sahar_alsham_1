@@ -164,6 +164,7 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
 #des4 {
     color: #f9f9f9!important;
     font-size: 13px!important
+	    }
 .fr.borderg,.fr.borderg a {
    animation: mymove 2s infinite;
 }
