@@ -66,6 +66,8 @@ div#l2 button,div#l3 button {
     border-radius: 24px!important;
     height: 27px;
 	padding: 0px 5px;
+		background-image: url(https://i.imgur.com/eqGvZEC.gif)!important;
+
 }
 
 div#l1 input#u1 {
@@ -332,3 +334,8 @@ position: absolute;
     background-color: white;
     background-image: url(https://fony5.com/images/mic_item_bg.gif);
 }
+
+.bg {
+	background-color: #be3f6a;
+	background-image: url(https://i.imgur.com/eqGvZEC.gif)!important;
+	}
