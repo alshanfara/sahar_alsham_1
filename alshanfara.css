@@ -167,7 +167,23 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
 }
 
 .fr.borderg,.fr.borderg a {
-    margin-top: 5px
+ margin-top: 5px
+       padding: 2px 0!important;
+   border: 0px solid #e6ff50;
+   -webkit-animation: mymove 5s infinite;
+   animation: mymove 2s infinite;
+}
+
+
+@-webkit-keyframes mymove {
+  50% {border-color: lightblue;}
+  from {
+                    transform: rotate(0deg) scale(1);
+                }
+
+                to {
+                    transform: rotate(360deg) scale(1);
+                }
 }
 
 .fr.co,div#tlogins img.fr.co {
