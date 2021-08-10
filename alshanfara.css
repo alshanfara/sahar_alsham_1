@@ -354,14 +354,3 @@ border: 1px solid #ffb80063;
 	animation: mymove 2s infinite;
 }
 
-
-@-webkit-keyframes mymove {
-  from {
-                }
-
-                to {
-                                        transform: rotate(360deg) scale(1);
-
-                }
-}
-
