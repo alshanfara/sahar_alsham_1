@@ -169,6 +169,17 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
    animation: mymove 2s infinite;
 }
 
+
+@-webkit-keyframes mymove {
+  50% {border-color: lightblue;}
+  from {
+                }
+
+                to {
+                    transform: rotate(360deg) scale(1);
+                }
+}
+
 .fr.co,div#tlogins img.fr.co {
     border-radius: 3px!important;
     height: 10px
@@ -328,6 +339,18 @@ border: 1px solid #ffb80063;
 	}
 
 .badge {
-	animation: mymove 2s infinite;
+animation: mymove 2s infinite;
+	}
+
+
+@-webkit-keyframes mymove {
+  50% {border-color: lightblue;}
+  from {
+                }
+
+                to {
+                    transform: rotate(360deg) scale(1);
+                }
 }
+
 
