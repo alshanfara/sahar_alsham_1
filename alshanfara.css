@@ -346,8 +346,8 @@ position: absolute;
 .label-success {
 background-color: #0b80d0;
 	}
-.borderg {
-   animation: mymove 2s infinite;
+.badge {
+	animation: mymove 2s infinite;
 }
 
 
