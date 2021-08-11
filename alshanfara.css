@@ -9,14 +9,14 @@
 }
 
 .btn-primary {
-    background-image: linear-gradient(#30b0b7,#096065,#5aeff7)!important;
+    background-image: linear-gradient(90deg,#E80065 0,#ef4c93 10%,#E80065 51%,#ef4c93 89%,#E80065 100%);
     border-color: #24558000!important;
     border-radius: 15px!important;
 }
 
 
 .label-primary, .btn-primary {
-    background-color: #24989e!important;
+    background-color: (90deg,#E80065 0,#ef4c93 10%,#E80065 51%,#ef4c93 89%,#E80065 100%);
     border: 1px solid transparent;
 }
 
@@ -33,7 +33,7 @@
 .fr.borderg, .fr.borderg a {
     border-radius: 15px!important;
     background-color: #1c91a7!important;
-    background-image: linear-gradient(#30b0b7,#096065,#5aeff7)!important;
+    background-image: linear-gradient(90deg,#E80065 0,#ef4c93 10%,#E80065 51%,#ef4c93 89%,#E80065 100%);
     border: black solid 0px;
     color: #fff;
 }
@@ -43,7 +43,7 @@
 }
 
 .bg {
-    background-color: #0fc7d2;
+    background-color: #ef4690;
 }
 
 #des3,#des4 {
@@ -51,7 +51,7 @@
 }
 
 #des4, label.label.label-primary.mini.fl {
-    background-image: linear-gradient(#30b0b7,#096065,#5aeff7)!important;
+    background-image: linear-gradient(90deg,#E80065 0,#ef4c93 10%,#E80065 51%,#ef4c93 89%,#E80065 100%);
 }
 
 
@@ -109,7 +109,7 @@ div#l1,div#l2,div#l3 {
     margin-bottom: 5px;
     border-top: 3px outset;
     margin-top: 0;
-    border-color: #187e83;
+    border-color: #e90769;
     border-radius: 15px;
     height: 69px;
 }
@@ -193,7 +193,7 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
 }
 
 .fa.fa-user-secret {
-    color: #1c878d;
+    color: #ee3c89;
     margin-top: 4px!important
 }
 
@@ -218,7 +218,7 @@ div#tlogins ::-webkit-scrollbar-thumb {
     background: 0 0;
     border: 71px #fff;
     border-radius: 31px;
-    background-image: linear-gradient(#30b0b7,#096065,#5aeff7)!important;
+    background-image: linear-gradient(90deg,#E80065 0,#ef4c93 10%,#E80065 51%,#ef4c93 89%,#E80065 100%);
 }
 
 div#tlogins ::-webkit-scrollbar-thumb:active {
@@ -252,7 +252,7 @@ ul.nav.nav-tabs>li>a {
     color: #fff;
     border: none;
     text-align: center;
-    background-image: linear-gradient(#30b0b7,#096065,#5aeff7)!important;
+    background-image: linear-gradient(90deg,#E80065 0,#ef4c93 10%,#E80065 51%,#ef4c93 89%,#E80065 100%);
     display: initial;
     width: 80%;
     float: left;
@@ -261,7 +261,7 @@ ul.nav.nav-tabs>li>a {
 
 ul.nav.nav-tabs>li.active>a {
     color: #ffe000;
-    background-image: linear-gradient(#30b0b7,#096065,#5aeff7)!important;
+    background-image: linear-gradient(90deg,#E80065 0,#ef4c93 10%,#E80065 51%,#ef4c93 89%,#E80065 100%);
     border: none;
     border-radius: 3px;
 }
@@ -279,7 +279,7 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
     border-radius: 3px;
     width: 23px;
     text-align: center;
-    background-image: linear-gradient(#30b0b7,#096065,#5aeff7)!important;
+    background-image: linear-gradient(90deg,#E80065 0,#ef4c93 10%,#E80065 51%,#ef4c93 89%,#E80065 100%);
     color: #ffffffe6;
 }
 
@@ -320,7 +320,7 @@ div#tlogins .hand.nosel.fl.uzr.border {
 }
 
 #des0 {
-	background-image: linear-gradient(#30b0b7,#096065,#5aeff7)!important;
+	background-image: linear-gradient(90deg,#E80065 0,#ef4c93 10%,#E80065 51%,#ef4c93 89%,#E80065 100%);
 
 }
 .broadcasters {
@@ -330,7 +330,7 @@ div#tlogins .hand.nosel.fl.uzr.border {
     background-image: url(https://fony5.com/images/mic_item_bg.gif);
 }
 
-.label-success {background-color: #ff0000;}
+.label-success {background-color: #24989e;}
 
 	}
 
