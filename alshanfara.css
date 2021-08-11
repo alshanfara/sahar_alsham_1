@@ -360,3 +360,6 @@ span.corner.fa.fa-user.label.label-primary.fr.uc
 {
 	display: inline!important;
 }
+img.fl.nosel.emo {
+    margin-top: -1px;
+}
