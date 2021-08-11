@@ -352,3 +352,11 @@ animation: mymove 2s infinite;
 .label-danger {
 	background-color: #ff0000;
 }
+
+button.fa.fa-send.fl.btn.btn-primary
+margin-top: 0!important;
+}
+span.corner.fa.fa-user.label.label-primary.fr.uc
+{
+	display: inline!important;
+}
