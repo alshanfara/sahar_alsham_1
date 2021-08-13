@@ -445,15 +445,19 @@ div#l2 input#pass1,div#l2 input#u2,div#l3 input#pass2,div#l3 input#u3 {
 }
 
 div#l2 input#u2,div#l3 input#u3 {
+        background-image: linear-gradient(300deg,#D9007B 0,#f59dc3 10%,#D9007B 51%,#f59dc3 89%,#D9007B 100%);
+
     margin-left: -6px;
     border-radius: 15px;
-    border: 1px solid #e1e0e0;
-    text-align: center
+    border: 1px solid #e1e0e0
+    text-align: center;
 }
 
 div#l2 input#pass1,div#l3 input#pass2 {
-    border-radius: 15px;
-    border: 1px solid #e1e0e0;
+        background-image: linear-gradient(-300deg,#D9007B 0,#f59dc3 10%,#D9007B 51%,#e66da2 89%,#D9007B 100%);
+
+    border-radius: 19px;
+    border: 1px solid #ffffff;
     text-align: center
 }
 
