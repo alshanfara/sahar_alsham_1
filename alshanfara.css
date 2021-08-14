@@ -334,21 +334,6 @@ div#tlogins .hand.nosel.fl.uzr.border {
 
 	}
 
-.badge {
-animation: mymove 2s infinite;
-	}
-
-
-@-webkit-keyframes mymove {
-  50% {border-color: lightblue;}
-  from {
-                }
-
-                to {
-                    transform: rotate(360deg) scale(1);
-                }
-}
-
 .label-danger {
 	background-color: #ff0000;
 }
