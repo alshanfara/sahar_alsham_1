@@ -378,6 +378,7 @@ span.corner.fa.fa-user.label.label-primary.fr.uc
 
 
 .label-primary, .btn-primary {
+	animation: mymove 1s; 
     background-color(90deg,#D9007B 0,#e66da2 10%,#D9007B 51%,#d86396 89%,#D9007B 100%);
     border: 1px solid transparent;
 }
