@@ -166,7 +166,7 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
     font-size: 13px!important
 	    }
 .fr.borderg,.fr.borderg a {
-   animation: mymove 2s infinite;
+   animation: mymove infinite;
 }
 
 
@@ -519,7 +519,7 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
     font-size: 13px!important
 	    }
 .fr.borderg,.fr.borderg a {
-   animation: mymove 2s infinite;
+   animation: mymove infinite;
 }
 
 
@@ -690,20 +690,7 @@ div#tlogins .hand.nosel.fl.uzr.border {
 
 	}
 
-.badge {
-animation: mymove infinite;
-	}
 
-
-@-webkit-keyframes mymove {
-  50% {border-color: lightblue;}
-  from {
-                }
-
-                to {
-                    transform: rotate(360deg) scale(1);
-                }
-}
 
 .label-danger {
 	background-color: #ff0000;
