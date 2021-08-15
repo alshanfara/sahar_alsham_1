@@ -367,7 +367,27 @@ span.corner.fa.fa-user.label.label-primary.fr.uc
     background-color(90deg,#D9007B 0,#e66da2 10%,#D9007B 51%,#d86396 89%,#D9007B 100%);
     border: 1px solid transparent;
 }
+.borderg { 
+   border: 2px solid #ccea0a;
+   -webkit-animation: mymove 5s infinite;
+   animation: mymove 1s infinite;
+}
 
+
+@-webkit-keyframes mymove {
+  50% {border-color: lightblue;}
+  from {
+                    transform: rotate(0deg) scale(1);
+                }
+
+                to {
+                    transform: rotate(360deg) scale(1);
+                }
+}
+
+@keyframes mymove {
+  50% {border-color: lightblue;}
+}
 
 .ae.label.label-primary.fa.fa-gear {
     color: #ffd900
