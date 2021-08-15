@@ -519,7 +519,7 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
     font-size: 13px!important
 	    }
 .fr.borderg,.fr.borderg a {
-   animation: mymove infinite;
+   animation: mymove 2s infinite;
 }
 
 
