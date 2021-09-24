@@ -9,14 +9,14 @@
 }
 
 .btn-primary {
-        background-color: #2f2c2d;
+        background-color: #db0e0e;
     border-color: #24558000!important;
     border-radius: 15px!important;
 }
 
 
 .label-primary, .btn-primary {
-    background-color(90deg,#000000 0,#927582 10%,#000000 51%,#8a727c 89%,#000000 100%);
+    background-color(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
     border: 1px solid transparent;
 }
 
@@ -33,8 +33,8 @@
 .fr.borderg, .fr.borderg a {
     border-radius: 15px!important;
     background-color: #1c91a7!important;
-    background-image: linear-gradient(90deg,#000000 0,#927582 10%,#000000 51%,#8a727c 89%,#000000 100%);
-    border: black solid 0px;
+    background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
+    border: #d80303 solid 0px;
     color: #fff;
 }
 
@@ -51,7 +51,7 @@
 }
 
 #des4, label.label.label-primary.mini.fl {
-    background-image: linear-gradient(90deg,#000000 0,#927582 10%,#000000 51%,#8a727c 89%,#000000 100%);
+    background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
 
 
 
@@ -108,7 +108,7 @@ div#l1,div#l2,div#l3 {
     margin-bottom: 5px;
     border-top: 3px outset;
     margin-top: 0;
-    border-color: #252424;
+    border-color: #db0e0e;
     border-radius: 15px;
     height: 69px;
 }
@@ -192,7 +192,7 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
 }
 
 .fa.fa-user-secret {
-    color: #ee3c89;
+    color: #db0e0e;
     margin-top: 4px!important
 }
 
@@ -217,7 +217,7 @@ div#tlogins ::-webkit-scrollbar-thumb {
     background: 0 0;
     border: 71px #fff;
     border-radius: 31px;
-    background-image: linear-gradient(90deg,#000000 0,#927582 10%,#000000 51%,#8a727c 89%,#000000 100%);
+    background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
 }
 
 div#tlogins ::-webkit-scrollbar-thumb:active {
@@ -251,7 +251,7 @@ ul.nav.nav-tabs>li>a {
     color: #fff;
     border: none;
     text-align: center;
-    background-image: linear-gradient(90deg,#000000 0,#927582 10%,#000000 51%,#8a727c 89%,#000000 100%);
+    background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
     width: 80%;
     float: left;
     padding: 0!important;
@@ -259,7 +259,7 @@ ul.nav.nav-tabs>li>a {
 
 ul.nav.nav-tabs>li.active>a {
     color: #ffe000;
-    background-image: linear-gradient(90deg,#000000 0,#927582 10%,#000000 51%,#8a727c 89%,#000000 100%);
+    background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
     border: none;
     border-radius: 3px;
 }
@@ -277,7 +277,7 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
     border-radius: 3px;
     width: 23px;
     text-align: center;
-    background-image: linear-gradient(90deg,#000000 0,#927582 10%,#000000 51%,#8a727c 89%,#000000 100%);
+    background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
     color: #ffffffe6;
 }
 
@@ -318,8 +318,7 @@ div#tlogins .hand.nosel.fl.uzr.border {
 }
 
 #des0 {
-	background-image: linear-gradient(90deg,#000000 0,#927582 10%,#000000 51%,#8a727c 89%,#000000 100%);
-
+	background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
 }
 .broadcasters {
 	background-image: url(https://i.imgur.com/eqGvZEC.gif)!important;
@@ -354,7 +353,7 @@ span.corner.fa.fa-user.label.label-primary.fr.uc
 }
 
 .btn-primary {
-    background-image: linear-gradient(90deg,#000000 0,#949090 10%,#000000 51%,#949090 89%,#000000 100%);
+    background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
     border-color: #24558000!important;
     border-radius: 15px!important;
 }
@@ -362,7 +361,7 @@ span.corner.fa.fa-user.label.label-primary.fr.uc
 
 .label-primary, .btn-primary {
 	animation: mymove ; 
-    background-color(90deg,#000000 0,#927582 10%,#000000 51%,#8a727c 89%,#000000 100%);
+    background-color(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
     border: 1px solid transparent;
           }
 
@@ -381,8 +380,8 @@ span.corner.fa.fa-user.label.label-primary.fr.uc
 .fr.borderg, .fr.borderg a {
     border-radius: 15px!important;
     background-color: #1c91a7!important;
-    background-image: linear-gradient(90deg,#000000 0,#927582 10%,#000000 51%,#8a727c 89%,#000000 100%);
-    border: black solid 0px;
+    background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
+    border: #db0e0e solid 0px;
     color: #fff;
 }
 
@@ -391,7 +390,7 @@ span.corner.fa.fa-user.label.label-primary.fr.uc
 }
 
 .bg {
-    background-color: #191919;
+    background-color: #db0e0e;
 }
 
 #des3,#des4 {
@@ -399,7 +398,7 @@ span.corner.fa.fa-user.label.label-primary.fr.uc
 }
 
 #des4, label.label.label-primary.mini.fl {
-    background-image: linear-gradient(90deg,#000000 0,#927582 10%,#000000 51%,#8a727c 89%,#000000 100%);
+    background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
 }
 
 
@@ -434,7 +433,7 @@ div#l2 input#u2,div#l3 input#u3 {
 
 
         border: 1px solid #ffffff;
-        background-image: linear-gradient(90deg,#000000 0,#927582ba 10%,#ffffff 51%,#a28a9491 89%,#000000 100%);
+        background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#df6c6c 51%,#f79595 89%,#bb0000 100%);
         
         
         
@@ -447,7 +446,7 @@ div#l2 input#u2,div#l3 input#u3 {
 }
 
 div#l2 input#pass1,div#l3 input#pass2 {
-        background-image: linear-gradient(90deg,#000000 0,#927582ba 10%,#ffffff 51%,#a28a9491 89%,#000000 100%);
+        background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#de6b6b 51%,#f79595 89%,#bb0000 100%);
     border-radius: 19px;
     border: 1px solid #ffffff;
     text-align: center
@@ -468,7 +467,7 @@ div#l1,div#l2,div#l3 {
     margin-bottom: 5px;
     border-top: 3px outset;
     margin-top: 0;
-    border-color: #252425;
+    border-color: #db0e0e;
     border-radius: 15px;
     height: 69px;
 }
@@ -552,12 +551,12 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
 }
 
 .fa.fa-user-secret {
-    color: #000000;
+    color: #db0e0e;
     margin-top: 4px!important
 }
 
 label.label.label-primary.mini.fl {
-        background-color: #000000;
+        background-color: #db0e0e;
 
 
     width: 58%!important;
@@ -580,7 +579,7 @@ div#tlogins ::-webkit-scrollbar-thumb {
     background: 0 0;
     border: 71px #fff;
     border-radius: 31px;
-    background-image: linear-gradient(90deg,#000000 0,#927582 10%,#000000 51%,#8a727c 89%,#000000 100%);
+    background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
 }
 
 div#tlogins ::-webkit-scrollbar-thumb:active {
@@ -614,7 +613,7 @@ ul.nav.nav-tabs>li>a {
     color: #fff;
     border: none;
     text-align: center;
-    background-image: linear-gradient(90deg,#000000 0,#b7b2b4 10%,#000000 51%,#b7b2b4 89%,#000000 100%);
+    background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
     display: initial;
     width: 80%;
     float: left;
@@ -623,7 +622,7 @@ ul.nav.nav-tabs>li>a {
 
 ul.nav.nav-tabs>li.active>a {
     color: #ffe000;
-    background-image: linear-gradientt(90deg,#000000 0,#b7b2b4 10%,#000000 51%,#b7b2b4 89%,#000000 100%);
+    background-image: linear-gradientt(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
     border: none;
     border-radius: 3px;
 }
@@ -641,7 +640,7 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
     border-radius: 3px;
     width: 23px;
     text-align: center;
-    background-image: linear-gradient(90deg,#000000 0,#927582 10%,#000000 51%,#8a727c 89%,#000000 100%);
+    background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
     color: #ffffffe6;
 }
 
@@ -682,7 +681,7 @@ div#tlogins .hand.nosel.fl.uzr.border {
 }
 
 #des0 {
-	background-image: linear-gradient(90deg,#000000 0,#927582 10%,#000000 51%,#8a727c 89%,#000000 100%);
+	background-image: linear-gradient(90deg,#d20202 0,#f39393 10%,#d80000 51%,#f79595 89%,#bb0000 100%);
 
 }
 .broadcasters {
