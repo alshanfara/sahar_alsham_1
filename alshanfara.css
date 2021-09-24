@@ -433,7 +433,7 @@ div#l2 input#u2,div#l3 input#u3 {
 
 
         border: 1px solid #ffffff;
-        background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#f7666a 51%,#f5aaaa 89%,#8e0408 100%);
+        background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#f5aaaa 51%,#f5aaaa 89%,#8e0408 100%);
         
         
         
@@ -446,7 +446,7 @@ div#l2 input#u2,div#l3 input#u3 {
 }
 
 div#l2 input#pass1,div#l3 input#pass2 {
-        background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#f66c70 51%,#f5aaaa 89%,#8e0408 100%);
+        background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#f5aaaa 51%,#f5aaaa 89%,#8e0408 100%);
     border-radius: 19px;
     border: 1px solid #ffffff;
     text-align: center
