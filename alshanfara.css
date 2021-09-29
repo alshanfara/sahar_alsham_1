@@ -9,19 +9,20 @@
 }
 
 .btn-primary {
-        background-color: #8e0408;
+        background-color: #785ba1;
     border-color: #24558000!important;
     border-radius: 15px!important;
 }
 
 
 .label-primary, .btn-primary {
-    background-color(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
+    background-color(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
     border: 1px solid transparent;
 }
 
 
 .ae.label.label-primary.fa.fa-gear {
+
     color: #ffd900
 }
 
@@ -33,8 +34,8 @@
 .fr.borderg, .fr.borderg a {
     border-radius: 15px!important;
     background-color: #1c91a7!important;
-    background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
-    border: #b5090e solid 0px;
+    background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
+    border: #674992 solid 0px;
     color: #fff;
 }
 
@@ -48,7 +49,7 @@
 }
 
 #des4, label.label.label-primary.mini.fl {
-    background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
+    background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
 
 
 
@@ -105,7 +106,7 @@ div#l1,div#l2,div#l3 {
     margin-bottom: 5px;
     border-top: 3px outset;
     margin-top: 0;
-    border-color: #b5090e;
+    border-color: #674992;
     border-radius: 15px;
     height: 69px;
 }
@@ -189,7 +190,7 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
 }
 
 .fa.fa-user-secret {
-    color: #b5090e;
+    color: #6e5098;
     margin-top: 4px!important
 }
 
@@ -214,7 +215,7 @@ div#tlogins ::-webkit-scrollbar-thumb {
     background: 0 0;
     border: 71px #fff;
     border-radius: 31px;
-    background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
+    background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
 }
 
 div#tlogins ::-webkit-scrollbar-thumb:active {
@@ -248,7 +249,7 @@ ul.nav.nav-tabs>li>a {
     color: #fff;
     border: none;
     text-align: center;
-    background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
+    background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
     width: 80%;
     float: left;
     padding: 0!important;
@@ -256,7 +257,7 @@ ul.nav.nav-tabs>li>a {
 
 ul.nav.nav-tabs>li.active>a {
     color: #ffe000;
-    background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
+    background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
     border: none;
     border-radius: 3px;
 }
@@ -274,7 +275,7 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
     border-radius: 3px;
     width: 23px;
     text-align: center;
-    background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
+    background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
     color: #ffffffe6;
 }
 
@@ -315,7 +316,7 @@ div#tlogins .hand.nosel.fl.uzr.border {
 }
 
 #des0 {
-	background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
+	background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
 }
 .broadcasters {
 	background-image: url(https://i.imgur.com/eqGvZEC.gif)!important;
@@ -329,7 +330,7 @@ div#tlogins .hand.nosel.fl.uzr.border {
 	}
 
 .label-danger {
-	background-color: #ff0000;
+	background-color: #7753ab;
 }
 
 button.fa.fa-send.fl.btn.btn-primary
@@ -350,7 +351,7 @@ span.corner.fa.fa-user.label.label-primary.fr.uc
 }
 
 .btn-primary {
-    background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
+    background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
     border-color: #24558000!important;
     border-radius: 15px!important;
 }
@@ -358,7 +359,7 @@ span.corner.fa.fa-user.label.label-primary.fr.uc
 
 .label-primary, .btn-primary {
 	animation: mymove ; 
-    background-color(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
+    background-color(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
     border: 1px solid transparent;
           }
 
@@ -377,15 +378,15 @@ span.corner.fa.fa-user.label.label-primary.fr.uc
 .fr.borderg, .fr.borderg a {
     border-radius: 15px!important;
     background-color: #1c91a7!important;
-    background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
-    border: #b5090e solid 0px;
+    background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
+    border: #7a5da3 solid 0px;
     color: #fff;
 }
 
 
 
 .bg {
-    background-color: #b5090e;
+    background-color: #7753ab;
 }
 
 #des3,#des4 {
@@ -393,7 +394,7 @@ span.corner.fa.fa-user.label.label-primary.fr.uc
 }
 
 #des4, label.label.label-primary.mini.fl {
-    background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
+    background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
 }
 
 
@@ -428,7 +429,7 @@ div#l2 input#u2,div#l3 input#u3 {
 
 
         border: 1px solid #ffffff;
-        background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#f5aaaa 51%,#f5aaaa 89%,#8e0408 100%);
+        background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#cab9e1 51%,#bda6de 89%,#664791 100%);
         
         
         
@@ -441,7 +442,7 @@ div#l2 input#u2,div#l3 input#u3 {
 }
 
 div#l2 input#pass1,div#l3 input#pass2 {
-        background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#f5aaaa 51%,#f5aaaa 89%,#8e0408 100%);
+        background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#cab9e1 51%,#bda6de 89%,#664791 100%);
     border-radius: 19px;
     border: 1px solid #ffffff;
     text-align: center
@@ -462,7 +463,7 @@ div#l1,div#l2,div#l3 {
     margin-bottom: 5px;
     border-top: 3px outset;
     margin-top: 0;
-    border-color: #b5090e;
+    border-color: #785ba1;
     border-radius: 15px;
     height: 69px;
 }
@@ -546,12 +547,12 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
 }
 
 .fa.fa-user-secret {
-    color: #b5090e;
+    color: #ff0000;
     margin-top: 4px!important
 }
 
 label.label.label-primary.mini.fl {
-        background-color: #8e0408;
+        background-color: #7b54af;
 
 
     width: 58%!important;
@@ -574,7 +575,7 @@ div#tlogins ::-webkit-scrollbar-thumb {
     background: 0 0;
     border: 71px #fff;
     border-radius: 31px;
-    background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
+    background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
 }
 
 div#tlogins ::-webkit-scrollbar-thumb:active {
@@ -608,7 +609,7 @@ ul.nav.nav-tabs>li>a {
     color: #fff;
     border: none;
     text-align: center;
-    background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#940409 51%,#f5aaaa 89%,#8e0408 100%);
+    background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
     display: initial;
     width: 80%;
     float: left;
@@ -617,7 +618,7 @@ ul.nav.nav-tabs>li>a {
 
 ul.nav.nav-tabs>li.active>a {
     color: #ffe000;
-    background-image: linear-gradientt(90deg,#8e0408 0,#f5aaaa 10%,#9a050a 51%,#f5aaaa 89%,#8e0408 100%);
+    background-image: linear-gradientt(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
     border: none;
     border-radius: 3px;
 }
@@ -635,7 +636,7 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
     border-radius: 3px;
     width: 23px;
     text-align: center;
-    background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
+    background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
     color: #ffffffe6;
 }
 
@@ -676,7 +677,7 @@ div#tlogins .hand.nosel.fl.uzr.border {
 }
 
 #des0 {
-	background-image: linear-gradient(90deg,#8e0408 0,#f5aaaa 10%,#630003 51%,#f5aaaa 89%,#8e0408 100%);
+	background-image: linear-gradient(90deg,#664791 0,#bda6de 10%,#664791 51%,#bda6de 89%,#664791 100%);
 
 }
 .broadcasters {
