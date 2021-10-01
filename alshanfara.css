@@ -24,3 +24,7 @@
 
 
 
+#des3 {
+    background-image: linear-gradient(
+90deg,#7dc3ce 0,#5aaab5 10%,#16707d 51%,#5aaab5 89%,#7dc3ce 100%);
+}
